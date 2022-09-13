@@ -1,0 +1,7 @@
+{
+  "name": "cap4http",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
